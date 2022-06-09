@@ -22,7 +22,7 @@ SuperMemo 并不是许多用户用来给别人留下深刻印象的“秘密武�
 
 在大学的第一年，我几乎没有多余的时间和精力。我的大部分时间都花在买第一台电脑上：ZX Spectrum(1986 年 1 月)。1985 年秋天的一天，我从一个朋友那里借了一台，我完全被它的魔力迷住了。早在我得到这个玩具之前，我就开始“在纸上”编程了。我的第一个程序是“计划一天”。它是 Plan 的前身。1986 年 1 月 4 日，当我第一次打开 ZX Spectrum时，程序已经准备好输入计算机了。从那天起，我的大部分时间都花在编程上，不去上学，甚至在课堂上也把程序写在纸上。
 
-![ZX Spectrum8-bit personal home computer](../.gitbook/assets/800px-ZX_Spectrum.jpg)
+![ZX Spectrum8-bit personal home computer](../assets/800px-ZX_Spectrum.jpg)
 
 > **图：** ZX Spectrum 8 位微机。由于计算机缺乏磁盘存储，无法在 ZX Spectrum上实现 SuperMemo。所有程序和数据都必须从盒式磁带中装入
 
@@ -42,7 +42,7 @@ SuperMemo 并不是许多用户用来给别人留下深刻印象的“秘密武�
 
 我们全家都动用了资源。我的堂兄 Garbatowski 博士为德国马克转账安排了一个特殊的外汇账户。由于某种难以解释的奇迹，我能够买得起 1000 德国马克 的 Amstrad 个人电脑 1512。这台电脑并不像媒体曾经报道的那样是走私来的。我失败的走私行动是在两年前为了获得 ZX Spectrum 而进行的。我在 Zaire 的朋友打算在西柏林给我买。最后，我在波兰以很好的价格从一个人那里买了二手的 ZX Spectrum，他认为自己卖的“只是一个键盘”。
 
-[![Amstrad PC-1512 DD](../.gitbook/assets/537px-Schneider_Amstrad_PC_1512_DD.png)](https://supermemo.guru/wiki/File:Schneider_Amstrad_PC_1512_DD.png)
+[![Amstrad PC-1512 DD](../assets/537px-Schneider_Amstrad_PC_1512_DD.png)](https://supermemo.guru/wiki/File:Schneider_Amstrad_PC_1512_DD.png)
 
 > **图：** Amstrad PC-1512 DD。我的版本只有一个磁盘驱动器。操作系统 MS-DOS 必须从一个磁盘加载，Turbo Pascal 3.0 必须从另一个磁盘加载，SuperMemo 必须从另一个磁盘加载。直到 1991 年我有了自己的第一个硬盘，我的英语集合不得不分成 3000 个部分。我的 39000 条项目被保存在13个磁盘上。我有很多其他领域的知识。1997 年 1 月 21 日，SuperMemo World 找到了那台最初的个人电脑，并从它的主人 Jarek Kantecki 手中买了回来。这台个人电脑在整整十年里功能齐全。现在它被埋在公司尘封的档案中。也许我们会在某个时候发布它的照片。图片来自维基百科
 
@@ -56,7 +56,7 @@ SuperMemo 并不是许多用户用来给别人留下深刻印象的“秘密武�
 
 1986 年 3 月 23 日，我成功地用 Pascal 编写了同样的仿真程序，Pascal 是一种编译语言。这一次，我可以在 70 分钟内运行 80 年的模拟。我得到了同样的结果。今天，SuperMemo 仍然可以运行类似的模拟。同样的过程只需要一两秒钟。
 
-[![SuperMemo makes it possible to simulate the course of learning over 15 years using real data collected during repetitions](../.gitbook/assets/600px-Learning_process_simulation.jpg)](https://supermemo.guru/wiki/File:Learning_process_simulation.jpg)
+[![SuperMemo makes it possible to simulate the course of learning over 15 years using real data collected during repetitions](../assets/600px-Learning_process_simulation.jpg)](https://supermemo.guru/wiki/File:Learning_process_simulation.jpg)
 
 > **图：** SuperMemo 可以使用在重复过程中收集的真实数据模拟 15 年以上的学习过程
 
@@ -66,7 +66,7 @@ SuperMemo 并不是许多用户用来给别人留下深刻印象的“秘密武�
 
 使用间隔重复模型得到的学习曲线除初始阶段外，几乎是线性的：
 
-[![Learning curve for a generic material, forgetting index equal to 10%, and daily working time of 1 minute](../.gitbook/assets/Linear_learning_curve.gif)](https://supermemo.guru/wiki/File:Linear_learning_curve.gif)
+[![Learning curve for a generic material, forgetting index equal to 10%, and daily working time of 1 minute](../assets/Linear_learning_curve.gif)](https://supermemo.guru/wiki/File:Linear_learning_curve.gif)
 
 > **图：** 一般材料的学习曲线，遗忘系数为 10%，每天学习时间为 1 分钟。
 
@@ -101,7 +101,7 @@ SuperMemo 并不是许多用户用来给别人留下深刻印象的“秘密武�
 
 由于单个项目的重复所需要的时间几乎与学习材料的总长度无关，所以可以用上面的公式来近似任何长度的学习材料的学习负荷。例如，第一年 3000 个项目集合的总将是 3000/500*1+3000/30000=6.1 (分钟/天)。
 
-[![Workload, in minutes per day, in a generic 3000-item learning material, for the forgetting index equal to 10%](../.gitbook/assets/Workload.gif)](https://supermemo.guru/wiki/File:Workload.gif)
+[![Workload, in minutes per day, in a generic 3000-item learning material, for the forgetting index equal to 10%](../assets/Workload.gif)](https://supermemo.guru/wiki/File:Workload.gif)
 
 > **图：** 学习负荷，以分钟为单位，在一般的 3000 项学习材料，遗忘系数等于 10%。
 
@@ -111,13 +111,13 @@ SuperMemo 并不是许多用户用来给别人留下深刻印象的“秘密武�
 
 对于遗忘系数大于 20% 的情况，[间隔效应](https://supermemo.guru/wiki/Spacing_effect)所产生的长时间间隔对记忆的积极影响被越来越多的遗忘项所抵消。
 
-[![Dependence of the knowledge acquisition rate on the forgetting index](../.gitbook/assets/Knowledge_acquisition_rate_vs_forgetting_index.gif)](https://supermemo.guru/wiki/File:Knowledge_acquisition_rate_vs_forgetting_index.gif)
+[![Dependence of the knowledge acquisition rate on the forgetting index](../assets/Knowledge_acquisition_rate_vs_forgetting_index.gif)](https://supermemo.guru/wiki/File:Knowledge_acquisition_rate_vs_forgetting_index.gif)
 
 > **图：** 知识习得率与遗忘系数的关系
 
 当[遗忘系数](https://supermemo.guru/wiki/Forgetting_index)降到 5% 以下时，重复学习负荷会迅速增加(见上图)。在学习实践中，遗忘系数的推荐值为 6-14%。
 
-![Trade-off between the knowledge retention](../.gitbook/assets/Knowledge_retention_vs_workload.gif)
+![Trade-off between the knowledge retention](../assets/Knowledge_retention_vs_workload.gif)
 
 > **图：** 知识保留(遗忘系数)与学习负荷(平均 10000 天内重复一项的次数)之间的权衡
 
@@ -125,7 +125,7 @@ SuperMemo 并不是许多用户用来给别人留下深刻印象的“秘密武�
 
 例如，使用间歇学习模型，我认为最优值可能在 5-10% 范围内:
 
-[![Workload-retention trade off derived from the model of intermittent learning](../.gitbook/assets/600px-Workload-retention_tradeoff.jpg)](https://supermemo.guru/wiki/File:Workload-retention_tradeoff.jpg)
+[![Workload-retention trade off derived from the model of intermittent learning](../assets/600px-Workload-retention_tradeoff.jpg)](https://supermemo.guru/wiki/File:Workload-retention_tradeoff.jpg)
 
 > **图 11.2.学习负荷-保留率权衡：** 一方面，如果遗忘系数低于 5%，那么学习负荷就会显著增加，而对记忆没有显著影响。另一方面，超过 10% 的遗忘系数，学习负荷几乎没有变化，而保留率却在稳步下降。显然，学习负荷-保留率权衡直接对应了习得率和保持率之间的折衷。通过增加 X 倍的时间可用性(减少学习负荷 X 倍)，就可以增加习得率 X 倍(比较第 5 章)。注意，该模型中遗忘系数与保留率的关系几乎是线性的。(来源：[优化学习](https://supermemo.guru/wiki/Optimization_of_learning)：*间歇学习模型*，[Piotr Wozniak](https://supermemo.guru/wiki/Piotr_Wozniak)， 1990)
 

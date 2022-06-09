@@ -22,7 +22,7 @@
 >
 > 为了达到这个目的，我把最优间隔的函数列成表。
 >
-> [![Matrix of optimal intervals showed up in SuperMemo 4 in 1989 and survived to this day in SuperMemo 17 with few changes](../.gitbook/assets/746px-Matrix_of_optimum_intervals_in_SuperMemo_5.jpg)](https://supermemo.guru/wiki/File:Matrix_of_optimum_intervals_in_SuperMemo_5.jpg)
+> [![Matrix of optimal intervals showed up in SuperMemo 4 in 1989 and survived to this day in SuperMemo 17 with few changes](../assets/746px-Matrix_of_optimum_intervals_in_SuperMemo_5.jpg)](https://supermemo.guru/wiki/File:Matrix_of_optimum_intervals_in_SuperMemo_5.jpg)
 >
 > > **图片：**最优间隔矩阵出现在1989年的SuperMemo 4中，并在SuperMemo 17中保留至今，几乎没有变化。在SuperMemo 4中，它是优化间距的信息来源。在SuperMemo 17中，它是由算法SM-15生成的矩阵得到的，同时与算法SM-17使用。这幅图展示了一个来自SuperMemo 5的矩阵，并显示了与原始矩阵值的显著偏离。在SuperMemo 4中，改编的速度要慢得多
 >
@@ -69,7 +69,7 @@
 
 如果你比较一个使用了 8 个月的 [SuperMemo 5](https://supermemo.guru/wiki/SuperMemo_5) 生成的矩阵，你会发现它与使用了 20 年的[算法 SM-8](https://supermemo.guru/wiki/Algorithm_SM-8) 生成的矩阵有显著的相似性：
 
-[![Matrix of optimum intervals can still be generated in SuperMemo 17 with procedures of Algorithm SM-15](../.gitbook/assets/600px-Matrix_of_optimum_intervals_in_SuperMemo_17.jpg)](https://supermemo.guru/wiki/File:Matrix_of_optimum_intervals_in_SuperMemo_17.jpg)
+[![Matrix of optimum intervals can still be generated in SuperMemo 17 with procedures of Algorithm SM-15](../assets/600px-Matrix_of_optimum_intervals_in_SuperMemo_17.jpg)](https://supermemo.guru/wiki/File:Matrix_of_optimum_intervals_in_SuperMemo_17.jpg)
 
 > **图片：**算法 SM-17 不再使用最优间隔矩阵。但是，仍然可以通过算法 SM-15 的步骤来生成。这些列与以A因子表示的材料的简易度相一致。这些行对应于以重复类别表示的记忆稳定性
 
@@ -263,7 +263,7 @@ SuperMemo 5的优势如此明显，以至于我没有收集太多数据来证明
 
 算法 SM-5 自 1989 年 10 月 17 日开始使用，它提供了一种确定理想的最优间隔函数的有效方法，超出了所有人的预期，从而提高了习得率(在 9 个月内学习了 15,000 个项目)。图 3.5 显示习得速率至少是组合应用 SM-2 和 SM-4 算法的两倍！
 
-[![Changes of the work burden in databases supervised by SM-2 and SM-5 algorithms](../.gitbook/assets/407px-Burdern_SM2_vs_SM5.jpg)](https://supermemo.guru/wiki/File:Burdern_SM2_vs_SM5.jpg)
+[![Changes of the work burden in databases supervised by SM-2 and SM-5 algorithms](../assets/407px-Burdern_SM2_vs_SM5.jpg)](https://supermemo.guru/wiki/File:Burdern_SM2_vs_SM5.jpg)
 
 > **图片：**在 SM-2 和 SM-5 算法的监督下，数据库中工作负担的变化
 

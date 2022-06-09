@@ -10,7 +10,7 @@
 
 1982 年，我更加关注大多数学生迟早会发现的东西：考试效果。我开始形成主动回忆的知识。我会把问题写在一页的左边，答案写在右边的一栏里：
 
-![](../.gitbook/assets/Polish-English_word_pairs_that_helped_formulate_SuperMemo.jpg)
+![](../assets/Polish-English_word_pairs_that_helped_formulate_SuperMemo.jpg)
 
 > **图：** 1982 年，我的学习资料被组织成问答栏，用于主动回忆。图为我的波兰英语单词对数据库(1982 年 6 月)
 
@@ -18,13 +18,13 @@
 
 在 1982 - 1983 年期间，我不断扩大我在生物化学和英语领域的“快速吸收”知识。我会不时地回顾我的资料页，以减少遗忘。我的记忆力提高了，但我再次碰壁只是时间问题。我拥有的页面越多，复习的频率越低，记忆遗漏的问题就越明显。下面是一个重复历史的例子：
 
-![Intermittent learning started on June 3, 1982](../.gitbook/assets/Repetition_history_notes_used_in_investigating_recall.jpg)
+![Intermittent learning started on June 3, 1982](../assets/Repetition_history_notes_used_in_investigating_recall.jpg)
 
 > **图：** 复习历史是记录复习的日期和成绩。在这个例子中，1982 - 1985 年进行了 8 次重复。38 对单词的页面记录了每次重复 0 - 7 次的记忆流失。这种断断续续的复习在 1985 年被 SuperMemo 方法所取代
 
 1982 年 6 月到 1984 年 12 月之间，我的英语 - 波兰语单词对笔记本增加到 79 页，看起来像这样：
 
-![](../.gitbook/assets/English-Polish_word_pairs.jpg)
+![](../assets/English-Polish_word_pairs.jpg)
 
 > **图：** 我的英语 - 波兰语笔记本中的一个典型页面开始于 1982 年 6 月。单词对将列在左侧。复习历史记录在右侧。回忆错误将被标记为中间的点
 
@@ -96,7 +96,7 @@
 
 1985 年 7 月 31 日，Supermemo 诞生了。我从我的间隔重复实验中得到的大部分数据都是可用的。作为一个热心的修行者，我没有等到实验结束。我想尽快开始学习。在人类生物学中建立了大量的笔记之后，我开始将这些笔记转换为特殊记忆测试格式(SMT 是 Supermemo 的原始名称，并且间隔重复)。
 
-![](../.gitbook/assets/800px-SuperMemo\_Memorization\_Test\_Human\_biology\_1985.07.31-1577343366871.jpg)
+![](../assets/800px-SuperMemo\_Memorization\_Test\_Human\_biology\_1985.07.31-1577343366871.jpg)
 
 > **图：**特殊记忆测试格式中的人类生物学开始于1985年7月31日(即Supermemo的生日)
 

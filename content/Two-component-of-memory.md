@@ -48,7 +48,7 @@
 
 记忆的两个组成成分的值的实际变化图提供了记忆状态演变的概念性可视化：
 
-[![SuperMemo: Changes in two variables of long-term memory](../.gitbook/assets/800px-Memory_status.jpg)](https://supermemo.guru/wiki/File:Memory_status.jpg)
+[![SuperMemo: Changes in two variables of long-term memory](../assets/800px-Memory_status.jpg)](https://supermemo.guru/wiki/File:Memory_status.jpg)
 
 > **图：** 记忆状态随着时间的推移而发生变化。横轴表示跨越整个重复历史的时间。顶部面板显示可提取性(十次幂，`$ R^{10} $`，便于分析)。灰色网格的可提取性指标分别为 R=99%、R=98% 等。中间深蓝色的面板显示的最佳间隔。重复日期用蓝色竖线标记，并以浅蓝绿色标记。当 R 越过 90% 线时，最佳区间的末端用红色竖线表示(仅当区间大于最佳区间时)。下面板显示稳定性(以 `$ \ln(S)/\ln(days) $` 表示，便于分析)。从图中可以看出，当稳定性较低时，早期重复后的可提取性下降较快(指数级)，但在第 7 次复习后的 10 年时间里，可提取性仅从100%下降到 94%。所有的值都来自一个实际的重复历史和记忆的三组分模型。
 
@@ -110,7 +110,7 @@
 > 2. 记忆的可提取性反映了重复之间的时间间隔，并指示记忆痕迹在回忆过程中能在多大程度上被成功利用
 > 3. 记忆的稳定性反映了学习过程中重复的历史，并且随着突触的每一次刺激而增加。它确定最佳重复间隔的长度
 >
-> [![Hypothetical mechanism involved in the process of optimal learning](../.gitbook/assets/426px-Hypothetical_mechanism_involved_in_the_process_of_optimal_learning.jpg)](https://supermemo.guru/wiki/File:Hypothetical_mechanism_involved_in_the_process_of_optimal_learning.jpg)
+> [![Hypothetical mechanism involved in the process of optimal learning](../assets/426px-Hypothetical_mechanism_involved_in_the_process_of_optimal_learning.jpg)](https://supermemo.guru/wiki/File:Hypothetical_mechanism_involved_in_the_process_of_optimal_learning.jpg)
 >
 > > **图：** 在我的硕士论文“优化学习”(1990)中，我提出了一些假设概念，这些概念可能是基于间隔重复的优化学习过程的基础。(A)分子现象 (B)突触的数量变化。这些观点在今天看来有些过时，但代表记忆可提取性的锯齿形曲线在有关间隔重复的流行出版物中得到了广泛的认识。它们通常被错误地归因于赫尔曼•艾宾浩斯
 >

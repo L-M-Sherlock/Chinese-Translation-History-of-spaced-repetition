@@ -12,7 +12,7 @@ SuperMemo 的历史页面上写着：“*Wozniak 用 16 个晚上写了他的第
 
 1987 年 9 月 8 日，我的第一台个人电脑从德国运来(Amstrad PC 1512)。我的热情无与伦比！我睡不着。我工作了一整夜。我计划编写的第一个程序是用于数学近似。SuperMemo 是第二个。
 
-[![Amstrad PC-1512 DD](../.gitbook/assets/537px-Schneider_Amstrad_PC_1512_DD.png)](https://supermemo.guru/wiki/File:Schneider_Amstrad_PC_1512_DD.png)
+[![Amstrad PC-1512 DD](../assets/537px-Schneider_Amstrad_PC_1512_DD.png)](https://supermemo.guru/wiki/File:Schneider_Amstrad_PC_1512_DD.png)
 
 > **图：** 我的版本只有一个磁盘驱动器。操作系统 MS-DOS 必须从一个磁盘加载，Turbo Pascal 3.0 必须从另一个磁盘加载，SuperMemo 必须从又一个磁盘加载。直到 1991 年我有了自己的第一个硬盘前，我的英语集合不得不分成 3000 个部分。我的 39000 条项目被保存在 13 个磁盘上。我有很多其他领域的知识。1997 年 1 月 21 日，SuperMemo World 找到了那台最初的个人电脑，并从它的主人 Jarek Kantecki 手中买了回来。这台个人电脑在整整十年里功能齐全。现在它被埋在公司尘封的档案中。也许我们会在某个时候发布它的照片。图片来自维基百科
 
@@ -55,7 +55,7 @@ SuperMemo 1.0 大事记：
 
 到了 1987 年 12 月 23 日，我的论文和[计算机数据库](https://supermemo.guru/wiki/Collection)包含了 3795 个关于人类生物学的问题(其中近 10% 已经存储在我新的 [SuperMemo](https://supermemo.guru/wiki/SuperMemo) 程序数据库中)。遗憾的是，那天我不得不从 SuperMemo 中删除存储完整重复历史的可能性。在 360K 的磁盘上没有足够的空间。间隔重复研究需要再等几年。直到 1996 年，SuperMemo 才重新开始收集重复次数的完整记录。
 
-![SuperMemo 1.0 for DOS](../.gitbook/assets/SuperMemo_1_for_DOS.jpg)
+![SuperMemo 1.0 for DOS](../assets/SuperMemo_1_for_DOS.jpg)
 
 > **图：** SuperMemo 1.0 for DOS(1987)是第一个使用间隔重复的计算机。它引入的算法 SM-2 在 30 年后仍然很流行
 
